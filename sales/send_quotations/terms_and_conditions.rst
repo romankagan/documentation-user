@@ -26,9 +26,6 @@ appear on every quotation, SO and invoice.
 .. image:: media/terms_and_conditions02.png 
   :align: center 
 
-.. image:: media/quote_template02.png
-  :align: center
-  
 Set up more detailed terms & conditions
 =======================================
 
